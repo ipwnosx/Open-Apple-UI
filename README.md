@@ -1,3 +1,5 @@
+
+![alt text](https://img.webme.com/pic/p/pineapple-electronics/unbenannt_2.jpg)
 # Open Apple UI
 ### An fully open source version of Apple's Mac OS Mojave UI
 
