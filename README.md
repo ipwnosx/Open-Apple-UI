@@ -1,4 +1,4 @@
-# Open-Apple-UI
+# Open Sourced Apple Mac OS Mojave UI 
 
 
 # HUH?
