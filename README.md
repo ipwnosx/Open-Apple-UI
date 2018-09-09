@@ -1,3 +1,14 @@
-# Open Sourced Apple Mac OS Mojave UI 
+# Open Apple UI
+### An fully open source version of Apple's Mac OS Mojave UI
 
-This are the full Mac OS assets of Mac OS Mojave. Using them for theming Mac OS in the future with Chameleon. Stay up to date by following https://twitter.com/LeviationD
+---
+
+What this allows you to do:
+
+* Future Mac OS theming
+* Look at Apple's UI
+
+This was possible by:
+
+**[Levation](https://twitter.com/LeviationD)**
+
